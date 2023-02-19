@@ -32,9 +32,9 @@ Yong</a></h1>
 
 - 🔭 I’m currently working as a Data Science Student in <a href="https://www.cenovus.com/" target="blank">Cenovus Energy</a>
 
-- 🌱 I’m currently a second-year Master student in Data Science and Analytics program at University of Calgary
+- 🌱 I’m also a second-year Master student in Data Science and Analytics program at University of Calgary
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for full-time job after September 2023
 
 - 🌱 I’m currently learning Data Engineering and JavaScript <a href="https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8670690?start=0#overview" target="blank">the-complete-web-developer-zero-to-mastery</a>
 
@@ -42,29 +42,17 @@ Yong</a></h1>
 
 - 📫 How to reach me **yongpengfu0011@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/YongpengFu/Resume/blob/master/RESUME_YONGPENG_FU.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="[https://www.linkedin.com/in/saurabhmchavan/](https://www.linkedin.com/in/yongpeng-fu/)">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/YongpengFu">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
 </p>
@@ -73,9 +61,8 @@ Yong</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+- [Visualization Analysis of Human-wildlife coexistence incidents across Canada, Article in Medium](https://medium.com/@yongpengfu0011/what-to-expect-in-the-face-of-wildlife-90088ab724aa)
+- [Visualization Analysis of Human-wildlife coexistence incidents across Canada, Video](https://www.loom.com/share/be17394f8f154ae9928f129d49804b11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
