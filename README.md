@@ -30,13 +30,15 @@ Yong</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a Data Science Student in <a href="https://www.cenovus.com/" target="blank">Cenovus Energy</a>
+- 🔭 I’m currently working as a Data Engineer COOP at <a href="https://www.rbcroyalbank.com/personal.html" target="blank">RBC Royal Bank</a>
+
+- 🔭 I worked as Data Science Intern and Software Developer Intern at <a href="https://www.cenovus.com/" target="blank">Cenovus Energy</a> and <a href="https://corp.canadiantire.ca/English/home/default.aspx" target="blank">Canadian Tire Corporation</a>
 
 - 🌱 I’m also a second-year Master student in Data Science and Analytics program at University of Calgary
 
 - 🤝 I’m available for full-time job after September 2023
 
-- 🌱 I’m currently learning Data Engineering and JavaScript <a href="https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8670690?start=0#overview" target="blank">the-complete-web-developer-zero-to-mastery</a>
+- 🌱 I’m currently learning more Data Engineering and JavaScript <a href="https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8670690?start=0#overview" target="blank">the-complete-web-developer-zero-to-mastery</a>
 
 - 💬 Ask me about **Python & R & Machine Learning**
 
