@@ -40,7 +40,7 @@ Yong</a></h1>
 
 - 🌱 I’m currently learning more Data Engineering and JavaScript <a href="https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8670690?start=0#overview" target="blank">the-complete-web-developer-zero-to-mastery</a>
 
-- 💬 Ask me about **Python & R & Machine Learning**
+- 💬 Ask me about **Python & Java & R & Machine Learning**
 
 - 📫 How to reach me **yongpengfu0011@gmail.com**
 
@@ -62,7 +62,7 @@ Yong</a></h1>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Machine Learning Applicaiton for Sentiment Analysis based on Scarpped Amazon Reviews](https://lnkd.in/gu7Ceny2)
 - [Visualization Analysis of Human-wildlife coexistence incidents across Canada, Article in Medium](https://medium.com/@yongpengfu0011/what-to-expect-in-the-face-of-wildlife-90088ab724aa)
 - [Visualization Analysis of Human-wildlife coexistence incidents across Canada, Video](https://www.loom.com/share/be17394f8f154ae9928f129d49804b11)
 <!-- BLOG-POST-LIST:END -->
