@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/YongpengFu" target="blank">
 Yong</a></h1>
-<h3 align="center">An experienced Data Scientist from Canada :canada:</h3>
+<h3 align="center">An experienced Data Engineer and Data Scientist from Canada :canada:</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
