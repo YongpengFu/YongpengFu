@@ -36,7 +36,7 @@ Yong</a></h1>
 
 - 🌱 I graduated as Master student in Data Science and Analytics program at University of Calgary
 
-- 🌱 I’m currently learning more Cloud Fluency <a href="https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8670690?start=0#overview" target="blank">the-complete-web-developer-zero-to-mastery</a>
+- 🌱 I’m currently learning more Cloud Fluency <a href="https://aws.amazon.com/console/" target="blank">AWS</a>
 
 - 💬 Ask me about **Java & Python & Scala & Machine Learning**
 
