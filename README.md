@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/YongpengFu" target="blank">
 Yong</a></h1>
-<h3 align="center">An experienced Data Engineer and Data Scientist from Canada :canada:</h3>
+<h3 align="center">An experienced Data Engineer from Canada :canada:</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
@@ -30,7 +30,7 @@ Yong</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a Senior Data Engineer at <a href="https://www.rbcroyalbank.com/personal.html" target="blank">RBC Royal Bank</a>
+- 🔭 I’m currently working as a Staff Data Engineer at <a href="https://www.rbcroyalbank.com/personal.html" target="blank">RBC Royal Bank</a>
 
 - 🔭 I worked as Data Science Intern and Software Developer Intern at <a href="https://www.cenovus.com/" target="blank">Cenovus Energy</a> and <a href="https://corp.canadiantire.ca/English/home/default.aspx" target="blank">Canadian Tire Corporation</a>
 
